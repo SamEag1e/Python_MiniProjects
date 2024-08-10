@@ -12,11 +12,11 @@ A collection of small Python projects to practice and demonstrate various progra
 ## Installation
 * Clone the repository:
 ```
-git clone https://github.com/yourusername/PythonMiniProjects.git
+git clone https://github.com/SamEag1e/Python_MiniProjects.git
 ```
 * Navigate to the project directory:
 ```
-cd PythonMiniProjects
+cd Python_MiniProjects
 ```
 ## Usage
 Run the Python scripts using:
